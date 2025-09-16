@@ -63,13 +63,15 @@ Este proyecto es un programa en **Java** que permite gestionar pedidos de equipa
 - Pedido confirmado si el cliente tiene datos completos y edad válida.
 
 ## Menú principal
-=== SISTEMA DE PEDIDOS ===
 
+```text
+=== SISTEMA DE PEDIDOS ===
 1. Ingresar Cliente
 2. Ingresar Vendedor
 3. Ingresar Producto
 4. Generar Pedido
 5. Salir
+
 
 ## Uso
 
