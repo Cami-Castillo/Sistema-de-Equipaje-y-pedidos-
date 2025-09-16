@@ -3,7 +3,7 @@
 
 **Evaluación práctica – Duoc UC**  
 **Carrera:** Ingeniería en Informática  
-**Curso:** DSY1101 – Introducción al Cloud Computing  
+**Curso:** DSY1101 – Desarrollo Orientado a Objetos
 **Profesor:** Josue Oteiza  
 
 
