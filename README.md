@@ -33,7 +33,6 @@ Este proyecto es un programa en **Java** que permite gestionar pedidos de equipa
 - Descuento por edad >65 años: 50% sobre total bruto, antes del descuento por monto.  
 - Pedido confirmado si el cliente tiene datos completos y edad válida.
 
-## Menú principal
 # Sistema de Gestión de Pedidos de Equipaje y Accesorios
 
 Este proyecto es un programa en **Java** que permite gestionar pedidos de equipaje y accesorios de viaje (maletas, mochilas y bolsos) para una tienda online. El sistema guarda datos de **clientes, vendedores, productos y pedidos**, calcula totales y aplica descuentos según reglas de negocio.
