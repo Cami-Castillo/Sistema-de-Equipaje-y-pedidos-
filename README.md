@@ -1,5 +1,10 @@
 # Sistema de Gestión de Pedidos de Equipaje y Accesorios
 
+**Evaluación práctica – Duoc UC**  
+**Carrera:** Ingeniería en Informática  
+**Curso:** DSY1101 – Introducción al Cloud Computing 
+**Profesor:** Josue Oteiza
+
 Este proyecto es un programa en **Java** que permite gestionar pedidos de equipaje y accesorios de viaje (maletas, mochilas y bolsos) para una tienda online. El sistema guarda datos de **clientes, vendedores, productos y pedidos**, calcula totales y aplica descuentos según reglas de negocio.
 
 ## Funcionalidades
