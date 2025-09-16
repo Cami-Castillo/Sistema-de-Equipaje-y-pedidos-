@@ -52,14 +52,6 @@ Este proyecto es un programa en **Java** que permite gestionar pedidos de equipa
 - **Pedidos**: vincula cliente, vendedor y producto; registra cantidad y fecha.  
   - Calcula **total bruto**, **descuento por monto**, **total neto** y determina si el pedido está **confirmado** o **pendiente**.
 
-## Reglas de negocio
-
-- Descuento por monto:  
-  - Total > $60.000 → 15%  
-  - Total > $120.000 → 25%  
-
-- Descuento por edad >65 años: 50% sobre total bruto, antes del descuento por monto.  
-- Pedido confirmado si el cliente tiene datos completos y edad válida.
 
 ## Menú principal
 
